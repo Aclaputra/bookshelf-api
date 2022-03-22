@@ -5,7 +5,8 @@
   "scripts": {
     "start-dev": "nodemon ./src/server.js",
     "start": "node ./src/server.js",
-    "lint": "eslint ./src"
+    "lint": "eslint ./src",
+    "build": "npm run build --production"
   },
   "license": "MIT",
   "dependencies": {
