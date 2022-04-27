@@ -1,2 +1,2 @@
 # bookshelf-api
-Built Bookshelf API with Nodejs Hapi framework
+Built Backend Bookshelf API project with Nodejs Hapi framework Backend using 
