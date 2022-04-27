@@ -1,2 +1,2 @@
 # bookshelf-api
-Dicoding Final Project class Belajar Backend Basic dan Google  Cloud
+Built Bookshelf API with Nodejs Hapi framework
